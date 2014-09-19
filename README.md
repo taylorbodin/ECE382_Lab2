@@ -158,5 +158,5 @@ I learned from my mistakes of jumping into a lab without thinking last time and 
 in a few hours with only minor hiccups. Granted it was an easier lab, I'm still please that I took my time and was rewarded
 with good code and less hassle. 
 
-Documentation: I used ![this](http://www.angelfire.com/electronic/kfrank/xor/index.html) website to better understand the
+Documentation: I used [this](http://www.angelfire.com/electronic/kfrank/xor/index.html) website to better understand the
 process of breaking an XOR encryption. 
